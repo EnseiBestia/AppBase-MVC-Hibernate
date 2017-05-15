@@ -4,7 +4,8 @@ SQLyog Job Agent v11.11 (64 bit) Copyright(c) Webyog Inc. All Rights Reserved.
 
 MySQL - 5.6.5-m8 : Database - appbase_mvc_hibernate
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -15,7 +16,7 @@ MySQL - 5.6.5-m8 : Database - appbase_mvc_hibernate
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 /*Table structure for table `app_user` */
-
+create database AppBase_MVC_Hibernate;
 DROP TABLE IF EXISTS `app_user`;
 
 CREATE TABLE `app_user` (
