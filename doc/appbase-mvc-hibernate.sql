@@ -17,6 +17,7 @@ MySQL - 5.6.5-m8 : Database - appbase_mvc_hibernate
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 /*Table structure for table `app_user` */
 create database AppBase_MVC_Hibernate;
+use AppBase_MVC_Hibernate;
 DROP TABLE IF EXISTS `app_user`;
 
 CREATE TABLE `app_user` (
